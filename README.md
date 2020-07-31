@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# 学子备战墙微公益平台高考资料整理
 
-You can use the [editor on GitHub](https://github.com/xzbzq/2021gaokao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 前言
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+（引用自 [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ）
 
-### Markdown
+我也曾很努力地收集各种课程资料，但到最后，某些重要信息的得到却往往依然是纯属偶然。这种状态时常令我感到后怕与不安。我也曾在课程结束后终于有了些许方法与总结，但这些想法无处诉说，最终只能把花费时间与精力才换来的经验耗散在了漫漫的遗忘之中。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我为这一年一年，这么多人孤军奋战的重复劳动感到不平。
 
-```markdown
-Syntax highlighted code block
+我希望能够将这些隐晦的、不确定的、口口相传的资料和经验，变为公开的、易于获取的和大家能够共同完善、积累的共享资料。
 
-# Header 1
-## Header 2
-### Header 3
+**我希望只要是前人走过的弯路，后人就不必再走。** 这是我的信念，也是我建立这个项目的原因。
 
-- Bulleted
-- List
+用法
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 贡献
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**欢迎贡献！**
 
-### Jekyll Themes
+Issue、PR、纠错、资料、课程、考试攻略，完全欢迎！
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xzbzq/2021gaokao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
 
-### Support or Contact
+对于课程的评价可写在对应课程文件夹的 `README.md` 中。如果想上传课件（请确保无版权问题），推荐使用 PDF 格式，避免系统差。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+由于本项目体积很大，故推荐采用在 **GitHub Web 端直接上传** 的方式，具体操作如下：
+
+1. 首先 Fork 本项目
+2. - 上传文件到已有文件夹：打开对应文件夹，点击绿色 Download 按钮旁的 upload，上传你的文件。
+   - 上传文件到新文件夹：打开任意文件夹，点击绿色 Download 按钮旁的 upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
+3. - 提交 PR：Fork 本项目，然后在 GitHub 网页端点击 Upload File 上传文件，发起 PR 即可。留意一下项目的文件组织喔。
+
+或者也可以直接附加在 **Issue** 中，由维护者进行添加。
+
+或者也可以发送邮件至 **admin@xzbzq.com** ，由维护者进行添加。
+
+## 免责声明
+
+我们不对项目中信息的准确性或真实性做任何承诺。
+
+**如果有侵权情况，麻烦您发送必要的信息至 **admin@xzbzq.com ，带来不便还请您谅解。**
+
+## 相关作品
