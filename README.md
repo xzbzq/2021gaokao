@@ -16,7 +16,7 @@
 
 使用方法：访问 <https://github.com/xzbzq/2021gaokao> ，点击资料链接即可下载。
 
-<https://www.xzbzq.com>
+官网：<https://www.xzbzq.com>
 
 
 
